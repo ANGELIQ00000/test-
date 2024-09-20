@@ -1,0 +1,16 @@
+h1 {text-align: center ;
+text-indent: 0px; font-family: Arial, Helvetica, sans-serif;}
+h1 {font-size: 40px;}
+h1 {font-weight: bolder;}
+h1 {color: brown;}
+.lw {text-align: center ;}
+.lw {font-size: 20px;}
+.lw {font-family: Cambria;}
+.lw {font-style: italic;}
+.lw {line-height: 8mm;}
+hr {color: brown;}
+hr {width: 75mm;}
+hr {height: 0.5mm;}
+hr {fill: brown;}
+img {width: 60mm;}
+
